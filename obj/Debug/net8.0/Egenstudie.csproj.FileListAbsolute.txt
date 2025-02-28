@@ -1,0 +1,14 @@
+C:\Users\jeane\Desktop\Egenstudie\obj\Debug\net8.0\Egenstudie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeane\Desktop\Egenstudie\obj\Debug\net8.0\Egenstudie.AssemblyInfoInputs.cache
+C:\Users\jeane\Desktop\Egenstudie\obj\Debug\net8.0\Egenstudie.AssemblyInfo.cs
+C:\Users\jeane\Desktop\Egenstudie\obj\Debug\net8.0\Egenstudie.csproj.CoreCompileInputs.cache
+C:\Users\jeane\Desktop\Egenstudie\bin\Debug\net8.0\Egenstudie.exe
+C:\Users\jeane\Desktop\Egenstudie\bin\Debug\net8.0\Egenstudie.deps.json
+C:\Users\jeane\Desktop\Egenstudie\bin\Debug\net8.0\Egenstudie.runtimeconfig.json
+C:\Users\jeane\Desktop\Egenstudie\bin\Debug\net8.0\Egenstudie.dll
+C:\Users\jeane\Desktop\Egenstudie\bin\Debug\net8.0\Egenstudie.pdb
+C:\Users\jeane\Desktop\Egenstudie\obj\Debug\net8.0\Egenstudie.dll
+C:\Users\jeane\Desktop\Egenstudie\obj\Debug\net8.0\refint\Egenstudie.dll
+C:\Users\jeane\Desktop\Egenstudie\obj\Debug\net8.0\Egenstudie.pdb
+C:\Users\jeane\Desktop\Egenstudie\obj\Debug\net8.0\Egenstudie.genruntimeconfig.cache
+C:\Users\jeane\Desktop\Egenstudie\obj\Debug\net8.0\ref\Egenstudie.dll
