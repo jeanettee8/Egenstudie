@@ -38,3 +38,6 @@ class Program
         Console.ReadKey();
     }
 }
+
+
+// Ting du kan adde: la player og enemy skrive inn sitt navn, så står det navn istedenfor "Player" og "Enemy AI"

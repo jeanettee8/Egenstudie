@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jeane\\Desktop\\Egenstudie\\Egenstudie.csproj": {}
+    "C:\\Users\\jeane\\Desktop\\Egne prosjekter\\Egenstudie\\Egenstudie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jeane\\Desktop\\Egenstudie\\Egenstudie.csproj": {
+    "C:\\Users\\jeane\\Desktop\\Egne prosjekter\\Egenstudie\\Egenstudie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jeane\\Desktop\\Egenstudie\\Egenstudie.csproj",
+        "projectUniqueName": "C:\\Users\\jeane\\Desktop\\Egne prosjekter\\Egenstudie\\Egenstudie.csproj",
         "projectName": "Egenstudie",
-        "projectPath": "C:\\Users\\jeane\\Desktop\\Egenstudie\\Egenstudie.csproj",
+        "projectPath": "C:\\Users\\jeane\\Desktop\\Egne prosjekter\\Egenstudie\\Egenstudie.csproj",
         "packagesPath": "C:\\Users\\jeane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jeane\\Desktop\\Egenstudie\\obj\\",
+        "outputPath": "C:\\Users\\jeane\\Desktop\\Egne prosjekter\\Egenstudie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jeane\\AppData\\Roaming\\NuGet\\NuGet.Config"
